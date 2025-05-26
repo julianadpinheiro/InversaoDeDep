@@ -1,3 +1,4 @@
+package model;
 
 public class EmailService implements MessageService {
     private String emailFrom;

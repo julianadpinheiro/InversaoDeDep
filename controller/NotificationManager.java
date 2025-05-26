@@ -1,3 +1,5 @@
+package controller;
+import model.MessageService;
 
 public class NotificationManager {
     private MessageService messageService;

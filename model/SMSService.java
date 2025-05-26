@@ -1,3 +1,4 @@
+package model;
 
 public class SMSService implements MessageService {
     private String phoneNumber;
